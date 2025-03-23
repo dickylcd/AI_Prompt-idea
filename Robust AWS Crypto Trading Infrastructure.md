@@ -1,6 +1,7 @@
 Hi there\! I'd be happy to help develop a robust, low-latency crypto trading infrastructure on AWS for your hedge fund client. Let me outline a comprehensive solution that addresses your specific requirements.
 
 # **AWS Crypto Trading Infrastructure Architecture**
+![image](https://github.com/user-attachments/assets/2a5e8c87-2409-4f0a-8a00-5f088f194c82)
 
 ## **Core Infrastructure Components**
 
